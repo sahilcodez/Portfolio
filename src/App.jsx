@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from 'c:/Users/sahil/Desktop/reactpehla/src/components/header';
-import Hero from 'c:/Users/sahil/Desktop/reactpehla/src/components/hero';
+import Header from '/src/components/header';
+import Hero from '/src/components/hero';
 
 function App() {
   return (
